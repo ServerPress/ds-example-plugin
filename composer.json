@@ -1,0 +1,16 @@
+{
+    "name": "serverpress/ds-example-plugin",
+    "description": "An example plugin that illustrates DesktopServer API functionality.",
+    "type": "wordpress-plugin",
+    "license": "GPL",
+    "authors":[
+        {
+            "name": "Stephen J. Carnam",
+            "email": "steve@serverpress.com",
+            "homepage": "https://github.com/serverpress/ds-example-plugin"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
